@@ -1,0 +1,175 @@
+body {
+    background-color: black;
+    color: aqua;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.border {
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: double;
+    border-color: aquamarine;
+}
+
+.skillborder {
+    border-radius: 25px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: aquamarine;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+
+}
+#contact  {
+    background-color:rgb(34, 83, 83);
+}
+#info  {
+    background-color:rgb(34, 83, 83);
+}
+
+.header {
+    text-align: center;
+
+}
+
+.button {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: black;
+}
+
+.img {
+    width: 25%;
+
+}
+
+.img img {
+    width: 100%;
+    border-radius: 50%;
+
+}
+
+.exptimeline img {
+    width: 50%;
+    border-radius: 30%;
+
+}
+
+.head {
+    padding-left: 30Px;
+}
+
+span {
+    font-style: italic;
+    color: blue;
+}
+
+.aboutme {
+    padding: 30px;
+
+}
+
+.skill {
+    padding: 30px;
+
+}
+
+
+.exptimeline {
+    padding: 30px;
+
+
+}
+
+.contactme {
+    padding: 30px;
+
+
+}
+
+.techs .tech {
+    padding: 5px;
+}
+
+.links a {
+    text-decoration: none;
+    color: aqua;
+
+}
+.links {
+    margin-left: 10%;
+}
+.cont a{
+     text-decoration: none;
+    color: aqua;
+}
+.cont{
+        margin-top: 5%;
+
+}
+
+.github a {
+    text-decoration: none;
+    color: aqua;
+
+
+}
+
+
+
+.marbottom {
+    margin-bottom: 10%;
+}
+
+.martop {
+    margin-top: 30px;
+}
+
+.marleft {
+    margin-left: 10px;
+}
+
+.padd20 {
+    padding: 20px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.w75 {
+    width: 75%;
+}
+
+.w25 {
+    width: 25%;
+}
+
+.w20 {
+    width: 20%;
+}
+
+.w25 {
+    width: 25%;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
